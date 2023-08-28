@@ -128,6 +128,6 @@ function moveSnake() {
 
 setInterval(moveSnake, 100);
 
-function gameOver() {
-  alert("Game Over!");
-}
+// function gameOver() {
+//   alert{game over}
+// }
